@@ -1,0 +1,3 @@
+- Very close but isn't
+- Deadlock -> if happened **can't** be solved by Scheduler
+- Starvation -> **can** be solved by Scheduler *(if ur lucky)*

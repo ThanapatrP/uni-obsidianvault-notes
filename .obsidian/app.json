@@ -1,4 +1,7 @@
 {
   "vimMode": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "newFileLocation": "current"
 }

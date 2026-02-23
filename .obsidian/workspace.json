@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "61a8867d4dbe69a3",
+        "id": "5efda757cb307392",
         "type": "tabs",
         "children": [
           {
-            "id": "ef0e1dd97e286122",
+            "id": "774f571ca5f7fb08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Os/Deadlock.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Deadlock"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#OS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,19 +179,48 @@
       "bases:Create new base": false
     }
   },
-  "active": "ef0e1dd97e286122",
+  "active": "774f571ca5f7fb08",
   "lastOpenFiles": [
-    "Pasted image 20260220223244.png",
-    "().md",
-    "Os/Deadlock.md",
+    "Os/Deadlock/Unsafe state.md",
+    "Os/Deadlock/Max Resources Request.md",
+    "Untitled.canvas",
+    "Os/Deadlock/Handling Deadlock.md",
+    "Os/topics/Deadlock MOC.md",
+    "Os/Deadlock/Consumable Resource.md",
+    "Os/Deadlock/Circular Wait Example.md",
+    "Os/Deadlock/Circular wait.md",
+    "Os/Deadlock/Deadlock Detection and Recovery.md",
+    "Os/Deadlock/Reuseable Resource.md",
+    "Os/Deadlock/Ostrich Algorithm.md",
+    "Os/Deadlock/Resource Ordering.md",
+    "Os/Deadlock/Safe Sequence.md",
+    "Os/Deadlock/Deadlock Possibility != Existence.md",
+    "Os/Deadlock/Mutual Exclusion.md",
+    "Os/Deadlock/Safe state.md",
+    "Os/Deadlock/System Model.md",
+    "Os/Deadlock/Resource Type.md",
+    "Os/Deadlock/Deadlock != Starvation.md",
+    "Os/Deadlock/Deadlock.md",
+    "Os/Deadlock/Deadlock Avoidance.md",
+    "Os/Deadlock/Deadlock Condition.md",
+    "Os/Deadlock/Deadlock Prevention.md",
+    "Os/OS MOC.md",
+    "Os/Deadlock/No preemption.md",
+    "Os/assets/Pasted image 20260223130337.png",
+    "Os/assets/Pasted image 20260223130314.png",
+    "Os/assets/Pasted image 20260220223244.png",
+    "Os/Deadlock/Untitled.base",
+    "Os/Deadlock/Resource Allocation Graphs.md",
+    "QuickNote/Mapping ER -> SQL.md",
+    "QuickNote",
+    "DB",
+    "Os/assets/Pasted image 20260223130225.png",
+    "Os/topics",
+    "Os/Deadlock",
+    "Os/assets",
     "Os/slides/682-6-Deadlock.pdf",
     "Os/slides/682-11-Security.pdf",
     "Os/slides/682-10-IOManagement.pdf",
-    "Os/slides/682-9-FileSystem.pdf",
-    "Os/slides/682-8-VirtualMemory.pdf",
-    "Os/slides/682-7-MemoryManagement.pdf",
-    "Os/slides",
-    "Welcome.md",
-    "Os"
+    "Os/slides/682-9-FileSystem.pdf"
   ]
 }

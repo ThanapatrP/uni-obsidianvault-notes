@@ -1,0 +1,1 @@
+Process or System **CAN'T** *Preempt* Resource from a process

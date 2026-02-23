@@ -1,0 +1,4 @@
+- [[Deadlock Prevention]] - deadlock is **impossible**
+- [[Deadlock Avoidance]] - OS get information about **process's future request** (MAX) and try to avoid deadlock
+- [[Deadlock Detection and Recovery]] - Deadlock happens -> **Detect it -> Fix it**
+- [[Ostrich Algorithm]] - **Pretend** it doesn't happen (doesn't deal with it)

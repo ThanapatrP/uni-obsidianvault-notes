@@ -1,0 +1,2 @@
+[[Consumable Resource]]
+[[Reuseable Resource]]
