@@ -1,0 +1,10 @@
+1. [[Data Redundancy]]
+	1. [[Intra-file Redundancy]]
+	2. [[Inter-file Redundancy]]
+2. [[Data Inconsistency]]
+3. [[Data Access Complexity]]
+4. [[Data Integrity Enforcement]]
+5. [[Atomicity Control]]
+6. [[Concurrency Control]]
+7. [[Security Implementation]]
+

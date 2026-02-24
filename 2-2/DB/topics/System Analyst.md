@@ -1,0 +1,2 @@
+- Get data requirement from [[End User]] (or Business owner)
+- Check Data in [[DB System]] via [[SQL]]

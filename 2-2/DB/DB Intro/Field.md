@@ -1,0 +1,1 @@
+Data type / Label for [[Data]] in a column

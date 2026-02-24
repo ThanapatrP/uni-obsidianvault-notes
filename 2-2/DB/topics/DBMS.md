@@ -1,0 +1,1 @@
+Act as interface between DB and Application

@@ -4,31 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "5efda757cb307392",
+        "id": "3f7c38c5006d89b9",
         "type": "tabs",
         "children": [
           {
-            "id": "91ca6dfd0ad79dea",
+            "id": "06a56e993b917459",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2-2/DB/topics/SQL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b831fdc5874d0563",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "SQL"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "dd6c5cdc95e45ca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fccc44963ea081b8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2-2/DB/topics/SQL.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of SQL"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,12 +117,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 216.50818634033203
+    "width": 248.50446319580078
   },
   "right": {
     "id": "d2131ce4ab565ce5",
@@ -179,8 +214,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           }
         ],
@@ -193,8 +228,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -203,55 +238,56 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b831fdc5874d0563",
+  "active": "06a56e993b917459",
   "lastOpenFiles": [
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "2026-02-24.md",
-    "Untitled.canvas",
+    "2-2/DB/topics/System Analyst.md",
+    "2-2/DB/topics/SQL.md",
+    "2-2/DB/topics/End User.md",
+    "2-2/DB/topics/DB System Roles.md",
+    "2-2/DB/topics/Database Admin.md",
+    "2-2/DB/topics/DB System.md",
+    "2-2/DB/topics/DB System Architecture.md",
+    "2-2/DB/topics/3-Tier Client-Server DB Arch.md",
+    "2-2/DB/topics/2-Tier Client-Server DB Arch.md",
+    "2-2/DB/topics/Centralized DB Arch.md",
+    "2-2/DB/topics/Standalone DB Arch.md",
+    "2-2/DB/topics/DB Introduction MOC.md",
+    "2-2/DB/topics/Application Programmer.md",
+    "2-2/DB/topics/Dummy terminal.md",
+    "Pasted image 20260224203500.png",
+    "Pasted image 20260224203146.png",
+    "Pasted image 20260224202631.png",
+    "Pasted image 20260224202549.png",
+    "2-2/DB/topics/DB System Components.md",
+    "2-2/DB/topics/DBC.md",
+    "2-2/DB/topics/DBMS.md",
+    "2-2/DB/DB Intro/Data Inconsistency.md",
+    "2-2/DB/DB Intro/File Processing Problems.md",
+    "2-2/DB/DB Intro/Security Implementation.md",
+    "2-2/DB/DB Intro/Concurrency Control.md",
+    "2-2/DB/DB Intro/Atomicity Control.md",
+    "2-2/DB/DB Intro/Data Access Complexity.md",
+    "2-2/DB/DB Intro/Data Integrity Enforcement.md",
     "2-2/DB/DB MOC.md",
     "2-2/Os/OS MOC.md",
-    "2-2/Os/topics/Deadlock MOC.md",
+    "2-2/DB/topics",
+    "2-2/DB/DB Intro/assets",
+    "2-2/DB/DB Intro/assets/Pasted image 20260224172648.png",
+    "2-2/DB/DB Intro",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "2-2",
-    "2-2/Os/MemoryManagement MOC.md",
-    "QuickNote/Mapping ER to SQL.md",
-    "2-2/Os/Deadlock/Deadlock != Starvation.md",
-    "2-2/Os/Deadlock/Deadlock Avoidance.md",
-    "2-2/Os/Deadlock/Two-Phase locking.md",
-    "Os/MemoryManagement.md",
-    "2-2/Os/Deadlock/Resource Type.md",
-    "2-2/Os/Deadlock/Other Issues.md",
-    "2-2/Os/Deadlock/Communication Deadlocks.md",
     "2-2/Os/assets/Pasted image 20260224095325.png",
-    "Os/topics/Livelock.md",
-    "Os/topics/Starvation.md",
-    "2-2/Os/Deadlock/Handling Deadlock.md",
-    "2-2/Os/Deadlock/Ostrich Algorithm.md",
-    "2-2/Os/Deadlock/Deadlock Prevention.md",
-    "2-2/Os/Deadlock/Deadlock Detection.md",
-    "2-2/Os/Deadlock/Detection Algorithm Usage.md",
-    "2-2/Os/Deadlock/Deadlock Detection and Recovery.md",
-    "2-2/Os/Deadlock/Deadlock Recovery.md",
-    "2-2/Os/Deadlock/Recovery through Killing Processes.md",
-    "2-2/Os/Deadlock/Selection Criteria Deadlocked  Processes.md",
-    "2-2/Os/Deadlock/Recovery through Rollback.md",
     "2-2/Os/assets/Pasted image 20260224095803.png",
     "2-2/Os/assets/Pasted image 20260224095338.png",
     "2-2/Os/assets/Pasted image 20260224094933.png",
     "2-2/Os/assets/Pasted image 20260224073326.png",
-    "2-2/Os/assets/Pasted image 20260224073307.png",
-    "2-2/Os/assets/Pasted image 20260223130337.png",
-    "2-2/Os/assets/Pasted image 20260223130314.png",
-    "2-2/Os/assets/Pasted image 20260220223244.png",
     "Os/Deadlock/Untitled.base",
     "QuickNote",
     "2-2/DB",
-    "2-2/Os/assets/Pasted image 20260223130225.png",
     "2-2/Os/topics",
     "2-2/Os/Deadlock",
-    "2-2/Os/assets",
-    "Os/slides/682-6-Deadlock.pdf",
-    "Os/slides/682-11-Security.pdf",
-    "Os/slides/682-10-IOManagement.pdf"
+    "2-2/Os/assets"
   ]
 }

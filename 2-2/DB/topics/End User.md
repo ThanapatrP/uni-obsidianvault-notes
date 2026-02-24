@@ -1,0 +1,1 @@
+Normal user / Customer (People need data from DB)
