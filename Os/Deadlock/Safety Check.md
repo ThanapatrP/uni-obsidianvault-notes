@@ -1,0 +1,1 @@
+Check if at least one [[Safe Sequence]] existed meaning that the system is in [[Safe state]] otherwise if there's no [[Safe Sequence]] the system is in [[Unsafe state]]

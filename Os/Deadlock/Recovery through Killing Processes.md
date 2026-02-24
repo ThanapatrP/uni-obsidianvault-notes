@@ -1,0 +1,1 @@
+Simply killing/abort each deadlocked processes until deadlock is no longer exist, Using [[Selection Criteria Deadlocked  Processes]] to select which process to kill first

@@ -1,0 +1,1 @@
+Saved state of process that should be save periodically

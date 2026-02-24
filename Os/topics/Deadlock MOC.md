@@ -9,4 +9,5 @@
 [[Resource Allocation Graphs]]
 [[Deadlock Possibility != Existence]]
 [[Handling Deadlock]]
+[[Other Issues]]
 
