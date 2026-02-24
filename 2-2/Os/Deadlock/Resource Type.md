@@ -1,2 +1,2 @@
-[[Consumable Resource]]
-[[Reuseable Resource]]
+1. [[Consumable Resource]]
+2. [[Reuseable Resource]]
