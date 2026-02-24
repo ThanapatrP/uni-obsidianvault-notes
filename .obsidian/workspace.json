@@ -11,28 +11,20 @@
             "id": "91ca6dfd0ad79dea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Os/OS MOC.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "OS MOC"
+              "title": "New tab"
             }
           },
           {
             "id": "b831fdc5874d0563",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Os/MemoryManagement MOC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MemoryManagement MOC"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -89,7 +81,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,52 +205,53 @@
   },
   "active": "b831fdc5874d0563",
   "lastOpenFiles": [
-    "Os/MemoryManagement MOC.md",
-    "Os/OS MOC.md",
-    "QuickNote/Mapping ER to SQL.md",
-    "Os/Deadlock/Deadlock != Starvation.md",
-    "Os/Deadlock/Deadlock Avoidance.md",
-    "Os/Deadlock/Two-Phase locking.md",
-    "Os/topics/Deadlock MOC.md",
-    "Os/MemoryManagement.md",
-    "Os/Deadlock/Resource Type.md",
-    "Os/Deadlock/Other Issues.md",
-    "Os/Deadlock/Communication Deadlocks.md",
-    "Os/assets/Pasted image 20260224095325.png",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
     "2026-02-24.md",
+    "Untitled.canvas",
+    "2-2/DB/DB MOC.md",
+    "2-2/Os/OS MOC.md",
+    "2-2/Os/topics/Deadlock MOC.md",
+    "2-2",
+    "2-2/Os/MemoryManagement MOC.md",
+    "QuickNote/Mapping ER to SQL.md",
+    "2-2/Os/Deadlock/Deadlock != Starvation.md",
+    "2-2/Os/Deadlock/Deadlock Avoidance.md",
+    "2-2/Os/Deadlock/Two-Phase locking.md",
+    "Os/MemoryManagement.md",
+    "2-2/Os/Deadlock/Resource Type.md",
+    "2-2/Os/Deadlock/Other Issues.md",
+    "2-2/Os/Deadlock/Communication Deadlocks.md",
+    "2-2/Os/assets/Pasted image 20260224095325.png",
     "Os/topics/Livelock.md",
     "Os/topics/Starvation.md",
-    "Os/Deadlock/Handling Deadlock.md",
-    "Os/Deadlock/Ostrich Algorithm.md",
-    "Os/Deadlock/Deadlock Prevention.md",
-    "Os/Deadlock/Deadlock Detection.md",
-    "Os/Deadlock/Detection Algorithm Usage.md",
-    "Os/Deadlock/Deadlock Detection and Recovery.md",
-    "Os/Deadlock/Deadlock Recovery.md",
-    "Os/Deadlock/Recovery through Killing Processes.md",
-    "Os/Deadlock/Selection Criteria Deadlocked  Processes.md",
-    "Os/Deadlock/Recovery through Rollback.md",
-    "Os/Deadlock/Checkpoint.md",
-    "Os/Deadlock/Recovery through Preemption.md",
-    "Os/assets/Pasted image 20260224095803.png",
-    "Os/assets/Pasted image 20260224095338.png",
-    "Os/assets/Pasted image 20260224094933.png",
-    "Os/assets/Pasted image 20260224073326.png",
-    "Os/assets/Pasted image 20260224073307.png",
-    "Untitled.canvas",
-    "Os/assets/Pasted image 20260223130337.png",
-    "Os/assets/Pasted image 20260223130314.png",
-    "Os/assets/Pasted image 20260220223244.png",
+    "2-2/Os/Deadlock/Handling Deadlock.md",
+    "2-2/Os/Deadlock/Ostrich Algorithm.md",
+    "2-2/Os/Deadlock/Deadlock Prevention.md",
+    "2-2/Os/Deadlock/Deadlock Detection.md",
+    "2-2/Os/Deadlock/Detection Algorithm Usage.md",
+    "2-2/Os/Deadlock/Deadlock Detection and Recovery.md",
+    "2-2/Os/Deadlock/Deadlock Recovery.md",
+    "2-2/Os/Deadlock/Recovery through Killing Processes.md",
+    "2-2/Os/Deadlock/Selection Criteria Deadlocked  Processes.md",
+    "2-2/Os/Deadlock/Recovery through Rollback.md",
+    "2-2/Os/assets/Pasted image 20260224095803.png",
+    "2-2/Os/assets/Pasted image 20260224095338.png",
+    "2-2/Os/assets/Pasted image 20260224094933.png",
+    "2-2/Os/assets/Pasted image 20260224073326.png",
+    "2-2/Os/assets/Pasted image 20260224073307.png",
+    "2-2/Os/assets/Pasted image 20260223130337.png",
+    "2-2/Os/assets/Pasted image 20260223130314.png",
+    "2-2/Os/assets/Pasted image 20260220223244.png",
     "Os/Deadlock/Untitled.base",
     "QuickNote",
-    "DB",
-    "Os/assets/Pasted image 20260223130225.png",
-    "Os/topics",
-    "Os/Deadlock",
-    "Os/assets",
+    "2-2/DB",
+    "2-2/Os/assets/Pasted image 20260223130225.png",
+    "2-2/Os/topics",
+    "2-2/Os/Deadlock",
+    "2-2/Os/assets",
     "Os/slides/682-6-Deadlock.pdf",
     "Os/slides/682-11-Security.pdf",
-    "Os/slides/682-10-IOManagement.pdf",
-    "Os/slides/682-9-FileSystem.pdf"
+    "Os/slides/682-10-IOManagement.pdf"
   ]
 }
