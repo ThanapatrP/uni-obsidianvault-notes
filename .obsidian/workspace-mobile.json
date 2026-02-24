@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-2/Os/Deadlock/Deadlock.md",
+                "file": "2-2/Os/topics/MemoryManagement MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deadlock"
+              "title": "MemoryManagement MOC"
+            }
+          },
+          {
+            "id": "f1a8872e7dbe487f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +123,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2-2/Os/Deadlock/Deadlock.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +141,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2-2/Os/Deadlock/Deadlock.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +154,6 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2-2/Os/Deadlock/Deadlock.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -169,37 +177,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "684548af189ac297",
+  "active": "f1a8872e7dbe487f",
   "lastOpenFiles": [
     "2-2/Os/topics/Deadlock MOC.md",
-    "2-2/Os/OS MOC.md",
-    "2026-02-24.md",
-    "Untitled.canvas",
-    "2-2/Os/Deadlock/Deadlock Possibility != Existence.md",
     "2-2/Os/Deadlock/Deadlock.md",
+    "2-2/Os/Deadlock/Deadlock Possibility != Existence.md",
+    "2-2/Os/Deadlock/System Model.md",
+    "2-2/Os/Deadlock/Handling Deadlock.md",
+    "2-2/Os/Deadlock/Deadlock Recovery.md",
+    "2-2/Os/Deadlock/Recovery through Killing Processes.md",
+    "2-2/Os/Deadlock/Selection Criteria Deadlocked  Processes.md",
+    "2-2/Os/Deadlock/Recovery through Preemption.md",
+    "2-2/Os/Deadlock/Recovery through Rollback.md",
+    "2-2/Os/Deadlock/Deadlock Detection and Recovery.md",
+    "2-2/Os/Deadlock/Deadlock Detection.md",
+    "2-2/Os/Deadlock/Ostrich Algorithm.md",
+    "2-2/Os/Deadlock/Deadlock Avoidance.md",
+    "2-2/Os/Deadlock/Deadlock Prevention.md",
+    "2-2/Os/Deadlock/Resource Allocation Graphs.md",
+    "2-2/Os/Deadlock/Deadlock Condition.md",
+    "2-2/Os/Deadlock/Resource Ordering.md",
+    "2-2/Os/Deadlock/Circular wait.md",
+    "2-2/Os/Deadlock/No preemption.md",
+    "2-2/Os/Deadlock/Hold and wait.md",
+    "2-2/Os/Deadlock/Mutual Exclusion.md",
+    "2-2/Os/Deadlock/Resource Type.md",
+    "2-2/Os/Deadlock/Reuseable Resource.md",
+    "2-2/Os/Deadlock/Consumable Resource.md",
+    "2-2/Os/topics/MemoryManagement MOC.md",
+    "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "2-2/Os/Deadlock/Unsafe state.md",
-    "2-2/Os/Deadlock/Two-Phase locking.md",
-    "2-2/Os/Deadlock/Total Resource.md",
-    "2-2/Os/Deadlock/System Model.md",
-    "2-2/Os/Deadlock/Selection Criteria Deadlocked  Processes.md",
-    "2-2/Os/Deadlock/Safety Check.md",
-    "2-2/Os/Deadlock/Safe state.md",
-    "2-2/Os/Deadlock/Safe Sequence.md",
-    "2-2/Os/Deadlock/Reuseable Resource.md",
-    "2-2/Os/Deadlock/Resource Type.md",
-    "2-2/Os/Deadlock/Resource Trajectories.md",
-    "2-2/Os/Deadlock/Resource Ordering.md",
-    "2-2/Os/Deadlock/Resource Allocation Graphs.md",
-    "2-2/Os/Deadlock/Remaining Resource Request.md",
-    "2-2/Os/Deadlock/Recovery through Rollback.md",
-    "2-2/Os/Deadlock/Recovery through Preemption.md",
-    "2-2/Os/Deadlock/Recovery through Killing Processes.md",
-    "2-2/Os/Deadlock/Other Issues.md",
-    "2-2/Os/Deadlock/Ostrich Algorithm.md",
-    "2-2/Os/Deadlock/No preemption.md",
-    "2-2/Os/Deadlock/Mutual Exclusion.md",
     "2-2/Os/assets/Pasted image 20260224095803.png",
     "2-2/Os/assets/Pasted image 20260224095338.png",
     "2-2/Os/assets/Pasted image 20260224095325.png",

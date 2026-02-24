@@ -5,4 +5,4 @@ Criteria for choosing deadlocked process to be killed first
 - **Least total resource allocated** so far
 - **Lowest Priority**
 
-TLDR; LEAST used/important process so far
+TLDR; ==LEAST used or unimportant process so far==
