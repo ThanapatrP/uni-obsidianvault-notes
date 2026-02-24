@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Os  ",
+      "query": "tag:#OS  ",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -22,9 +22,9 @@
   "lineSizeMultiplier": 3.2256379335295,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 8.95470551348223,
+  "repelStrength": 10.0786262119531,
   "linkStrength": 1,
   "linkDistance": 232,
-  "scale": 0.13562337595560645,
+  "scale": 0.6805519027130751,
   "close": true
 }

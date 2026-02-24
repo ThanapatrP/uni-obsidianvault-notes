@@ -8,16 +8,217 @@
         "type": "tabs",
         "children": [
           {
-            "id": "774f571ca5f7fb08",
+            "id": "b504358423efa859",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Os/topics/Deadlock MOC.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Deadlock MOC"
+            }
+          },
+          {
+            "id": "b2ca7cca5f0676c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os/Deadlock/Deadlock Condition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deadlock Condition"
+            }
+          },
+          {
+            "id": "4fdde9e867eb0850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os/Deadlock/Deadlock Avoidance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deadlock Avoidance"
+            }
+          },
+          {
+            "id": "2d3a01987da9cd3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os/Deadlock/Banker's Algorithm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Banker's Algorithm"
+            }
+          },
+          {
+            "id": "7ae2e3d54a4dc733",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os/Deadlock/Deadlock Avoidance Data Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deadlock Avoidance Data Structure"
+            }
+          },
+          {
+            "id": "d9c5c448de9d0841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QuickNote/Mapping ER to SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mapping ER to SQL"
+            }
+          },
+          {
+            "id": "a7867b0e7fd3516d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os/Deadlock/Allocated Resource.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Allocated Resource"
+            }
+          },
+          {
+            "id": "ac58748ee311d940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os/Deadlock/Allocated Resource.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Allocated Resource"
+            }
+          },
+          {
+            "id": "203d7833bd07bf63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os/Deadlock/Claimed Resource.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claimed Resource"
+            }
+          },
+          {
+            "id": "21a28111efd688c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os/Deadlock/Claimed Resource.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claimed Resource"
+            }
+          },
+          {
+            "id": "dcbac2561549826e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os/Deadlock/Claimed Resource.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claimed Resource"
+            }
+          },
+          {
+            "id": "1b0671f37f60f4ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os/Deadlock/Claimed Resource.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claimed Resource"
+            }
+          },
+          {
+            "id": "2ebe1b4c7a987d42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os/Deadlock/Available Resource.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Available Resource"
+            }
+          },
+          {
+            "id": "0c5165e1b96b2984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os/Deadlock/Total Resource.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Total Resource"
+            }
+          },
+          {
+            "id": "721db394b73ffe62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Os/Deadlock/Circular Wait Example.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Circular Wait Example"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -49,7 +250,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#OS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,39 +380,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "774f571ca5f7fb08",
+  "active": "d9c5c448de9d0841",
   "lastOpenFiles": [
-    "Os/Deadlock/Unsafe state.md",
-    "Os/Deadlock/Max Resources Request.md",
-    "Untitled.canvas",
-    "Os/Deadlock/Handling Deadlock.md",
-    "Os/topics/Deadlock MOC.md",
-    "Os/Deadlock/Consumable Resource.md",
-    "Os/Deadlock/Circular Wait Example.md",
+    "Os/Deadlock/Remaining Resource Request.md",
+    "Os/Deadlock/Deadlock Avoidance Data Structure.md",
+    "Os/Deadlock/Banker's Algorithm.md",
+    "Os/Deadlock/Allocated Resource.md",
+    "Os/Deadlock/Claimed Resource.md",
+    "Os/Deadlock/Available Resource.md",
+    "Os/Deadlock/Total Resource.md",
+    "Os/Deadlock/Deadlock Avoidance.md",
     "Os/Deadlock/Circular wait.md",
+    "Os/Deadlock/Circular Wait Example.md",
+    "Os/Deadlock/Deadlock Condition.md",
+    "Os/topics/Deadlock MOC.md",
+    "Os/assets/Pasted image 20260224073326.png",
+    "Os/Deadlock/Resource Trajectories.md",
+    "Os/assets/Pasted image 20260224073307.png",
+    "Os/Deadlock/Resource Allocation Denial.md",
+    "Os/Deadlock/Deadlock Avoidance Approaches.md",
+    "Os/Deadlock/Handling Deadlock.md",
+    "Os/Deadlock/Incremental Resource Request.md",
+    "Os/Deadlock/Max Resources Request.md",
+    "Os/Deadlock/Unsafe state.md",
+    "Os/Deadlock/Safe Sequence.md",
+    "Os/Deadlock/Deadlock.md",
+    "Untitled.canvas",
+    "Os/Deadlock/Consumable Resource.md",
     "Os/Deadlock/Deadlock Detection and Recovery.md",
     "Os/Deadlock/Reuseable Resource.md",
     "Os/Deadlock/Ostrich Algorithm.md",
     "Os/Deadlock/Resource Ordering.md",
-    "Os/Deadlock/Safe Sequence.md",
-    "Os/Deadlock/Deadlock Possibility != Existence.md",
-    "Os/Deadlock/Mutual Exclusion.md",
-    "Os/Deadlock/Safe state.md",
-    "Os/Deadlock/System Model.md",
-    "Os/Deadlock/Resource Type.md",
-    "Os/Deadlock/Deadlock != Starvation.md",
-    "Os/Deadlock/Deadlock.md",
-    "Os/Deadlock/Deadlock Avoidance.md",
-    "Os/Deadlock/Deadlock Condition.md",
-    "Os/Deadlock/Deadlock Prevention.md",
-    "Os/OS MOC.md",
-    "Os/Deadlock/No preemption.md",
     "Os/assets/Pasted image 20260223130337.png",
     "Os/assets/Pasted image 20260223130314.png",
     "Os/assets/Pasted image 20260220223244.png",
     "Os/Deadlock/Untitled.base",
-    "Os/Deadlock/Resource Allocation Graphs.md",
-    "QuickNote/Mapping ER -> SQL.md",
     "QuickNote",
     "DB",
     "Os/assets/Pasted image 20260223130225.png",

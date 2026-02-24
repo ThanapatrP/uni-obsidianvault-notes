@@ -1,1 +1,1 @@
-Sequence of Processes to satisfy Process's [[Max Resources Request]] 
+Sequence of serving processes's [[Max Resources Request]] that have enough resource to serve

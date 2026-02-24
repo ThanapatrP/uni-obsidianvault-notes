@@ -7,7 +7,6 @@
 [[Resource Type]]
 [[Deadlock Condition]]
 [[Resource Allocation Graphs]]
-[[Circular Wait Example]]
 [[Deadlock Possibility != Existence]]
 [[Handling Deadlock]]
 
