@@ -16,10 +16,14 @@
                 "id": "adb4947934b9f1d6",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "Os/topics/MemoryManagement MOC.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "MemoryManagement MOC"
                 }
               }
             ]
@@ -35,6 +39,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "Os/topics/MemoryManagement MOC.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -62,7 +67,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "title": "Graph of MemoryManagement MOC"
                 }
               }
             ]
@@ -283,47 +288,47 @@
   },
   "active": "adb4947934b9f1d6",
   "lastOpenFiles": [
-    "RDBMS.md",
-    "2-2/Os/Deadlock Possibility != Existence.md",
-    "2-2/Os/Circular wait.md",
-    "2-2/Os/Circular Wait Example.md",
-    "MOCs/DB MOC.md",
-    "2-2/DB/topics/DB Introduction MOC.md",
-    "2-2/DB/DB Terminologies.md",
-    "2-2/DB/DB System Roles.md",
-    "2-2/DB/DB System.md",
-    "2-2/DB/File Processing Problems.md",
-    "2-2/DB/Traditional File Processing.md",
     "MOCs/OS MOC.md",
-    "DBMS Types.md",
     "HOME.md",
+    "MOCs/DB MOC.md",
+    "DB/DBMS Types.md",
+    "DB/Key-Concept of RDB.md",
+    "DB/RDBMS.md",
+    "Os/Deadlock Possibility != Existence.md",
+    "Os/Circular wait.md",
+    "Os/Circular Wait Example.md",
+    "DB/topics/DB Introduction MOC.md",
+    "DB/DB Terminologies.md",
+    "DB/DB System Roles.md",
+    "DB/DB System.md",
+    "DB/File Processing Problems.md",
+    "DB/Traditional File Processing.md",
     "QuickNote/AI Feature selection.md",
-    "Key-Concept of RDB.md",
-    "2-2/DB/topics/DBMS.md",
-    "2-2/Os/topics/Deadlock MOC.md",
-    "NoSQL DBMS.md",
-    "ORDBMS.md",
-    "OODMBS.md",
-    "2-2/DB/Characteristic of DB System.md",
+    "DB/topics/DBMS.md",
+    "Os/topics/Deadlock MOC.md",
+    "DB/NoSQL DBMS.md",
+    "DB/ORDBMS.md",
+    "DB/OODMBS.md",
+    "DB/Characteristic of DB System.md",
     "QuickNote/Mapping ER to SQL.md",
-    "2-2/DB/Authorization.md",
-    "2-2/DB/DBMS Functionalities.md",
-    "2-2/DB/DB Model Types.md",
-    "2-2/DB/assets/Pasted image 20260225124837.png",
+    "DB/Authorization.md",
+    "DB/DBMS Functionalities.md",
+    "DB/DB Model Types.md",
+    "DB/assets/Pasted image 20260225124837.png",
     "MOCs",
-    "2-2/DB/assets/Pasted image 20260224202549.png",
-    "2-2/DB/assets/Pasted image 20260225094540.png",
-    "2-2/DB/assets/Pasted image 20260225092201.png",
-    "2-2/DB/assets/Pasted image 20260225092104.png",
-    "2-2/DB/assets/Pasted image 20260225091723.png",
+    "DB/assets/Pasted image 20260224202549.png",
+    "DB/assets/Pasted image 20260225094540.png",
+    "DB/assets/Pasted image 20260225092201.png",
+    "DB/assets/Pasted image 20260225092104.png",
+    "DB/assets/Pasted image 20260225091723.png",
     "2-2/DB/assets 1",
     "2-2/DB/DBMS",
-    "2-2/DB/assets/Pasted image 20260225092132.png",
-    "2-2/DB/assets/Pasted image 20260225092018.png",
-    "2-2/DB/assets/Pasted image 20260225091925.png",
-    "2-2/DB/assets/Pasted image 20260224203500.png",
-    "2-2/DB/topics",
-    "2-2/DB/assets",
+    "DB/assets/Pasted image 20260225092132.png",
+    "DB/assets/Pasted image 20260225092018.png",
+    "DB/assets/Pasted image 20260225091925.png",
+    "DB/assets/Pasted image 20260224203500.png",
+    "DB/topics",
+    "DB/assets",
     "2-2/DB/DB Intro",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
@@ -331,6 +336,6 @@
     "2-2",
     "Os/Deadlock/Untitled.base",
     "QuickNote",
-    "2-2/DB"
+    "DB"
   ]
 }
