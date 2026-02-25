@@ -7,4 +7,5 @@
 - Mutual Exclusion
 - No preemption
 - Hold-and-wait
-- **+++Circular wait ** 
+- +++[[Circular wait]]
+
