@@ -1,4 +1,7 @@
+#2-2
 #MOC
 
-[[Deadlock MOC]]
-[[MemoryManagement MOC]]
+[[Deadlock]]
+[[MemoryManagement]]
+
+
