@@ -1,0 +1,1 @@
+Ability to process data query (Create, Delete)

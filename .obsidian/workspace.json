@@ -4,67 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "3f7c38c5006d89b9",
-        "type": "tabs",
+        "id": "cc0c659dbc4c1b81",
+        "type": "split",
         "children": [
           {
-            "id": "06a56e993b917459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-2/DB/topics/SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SQL"
-            }
-          }
-        ]
-      },
-      {
-        "id": "dd6c5cdc95e45ca4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fccc44963ea081b8",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "2-2/DB/topics/SQL.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+            "id": "3f7c38c5006d89b9",
+            "type": "tabs",
+            "dimension": 57.88177339901478,
+            "children": [
+              {
+                "id": "adb4947934b9f1d6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "HOME.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "HOME"
                 }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of SQL"
-            }
+              }
+            ]
+          },
+          {
+            "id": "53debd277f399950",
+            "type": "tabs",
+            "dimension": 42.11822660098522,
+            "children": [
+              {
+                "id": "16cb9f3f00fbf02c",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "HOME.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of HOME"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -96,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Authorization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.50446319580078
+    "width": 331.5110321044922
   },
   "right": {
     "id": "d2131ce4ab565ce5",
@@ -238,56 +247,95 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06a56e993b917459",
+  "floating": {
+    "id": "a16ae96f9215a898",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a14d84445470f2b8",
+        "type": "window",
+        "children": [
+          {
+            "id": "275d565fd319a3b4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "47805de198c964d4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "QuickNote/AI Feature selection.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "AI Feature selection"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 955,
+        "height": 1218,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "adb4947934b9f1d6",
   "lastOpenFiles": [
-    "2-2/DB/topics/System Analyst.md",
-    "2-2/DB/topics/SQL.md",
-    "2-2/DB/topics/End User.md",
-    "2-2/DB/topics/DB System Roles.md",
-    "2-2/DB/topics/Database Admin.md",
-    "2-2/DB/topics/DB System.md",
-    "2-2/DB/topics/DB System Architecture.md",
-    "2-2/DB/topics/3-Tier Client-Server DB Arch.md",
-    "2-2/DB/topics/2-Tier Client-Server DB Arch.md",
-    "2-2/DB/topics/Centralized DB Arch.md",
-    "2-2/DB/topics/Standalone DB Arch.md",
-    "2-2/DB/topics/DB Introduction MOC.md",
-    "2-2/DB/topics/Application Programmer.md",
-    "2-2/DB/topics/Dummy terminal.md",
-    "Pasted image 20260224203500.png",
-    "Pasted image 20260224203146.png",
-    "Pasted image 20260224202631.png",
-    "Pasted image 20260224202549.png",
-    "2-2/DB/topics/DB System Components.md",
-    "2-2/DB/topics/DBC.md",
+    "QuickNote/AI Feature selection.md",
+    "HOME.md",
+    "Key-Concept of RDB.md",
+    "RDBMS.md",
+    "MOCs/DB MOC.md",
     "2-2/DB/topics/DBMS.md",
-    "2-2/DB/DB Intro/Data Inconsistency.md",
-    "2-2/DB/DB Intro/File Processing Problems.md",
-    "2-2/DB/DB Intro/Security Implementation.md",
-    "2-2/DB/DB Intro/Concurrency Control.md",
-    "2-2/DB/DB Intro/Atomicity Control.md",
-    "2-2/DB/DB Intro/Data Access Complexity.md",
-    "2-2/DB/DB Intro/Data Integrity Enforcement.md",
-    "2-2/DB/DB MOC.md",
-    "2-2/Os/OS MOC.md",
+    "2-2/DB/topics/DB Introduction MOC.md",
+    "MOCs/OS MOC.md",
+    "2-2/Os/topics/Deadlock MOC.md",
+    "DBMS Types.md",
+    "NoSQL DBMS.md",
+    "ORDBMS.md",
+    "OODMBS.md",
+    "2-2/DB/Characteristic of DB System.md",
+    "QuickNote/Mapping ER to SQL.md",
+    "2-2/DB/Authorization.md",
+    "2-2/DB/DBMS Functionalities.md",
+    "2-2/DB/DB Model Types.md",
+    "2-2/DB/DB System.md",
+    "2-2/DB/DB System Roles.md",
+    "2-2/DB/DB Terminologies.md",
+    "2-2/DB/Traditional File Processing.md",
+    "2-2/DB/DB System Architecture.md",
+    "2-2/DB/Maximum Security.md",
+    "2-2/DB/Logically Centralized Control.md",
+    "2-2/DB/Data Independence.md",
+    "2-2/DB/assets/Pasted image 20260225124837.png",
+    "MOCs",
+    "2-2/DB/assets/Pasted image 20260224202549.png",
+    "2-2/DB/assets/Pasted image 20260225094540.png",
+    "2-2/DB/assets/Pasted image 20260225092201.png",
+    "2-2/DB/assets/Pasted image 20260225092104.png",
+    "2-2/DB/assets/Pasted image 20260225091723.png",
+    "2-2/DB/assets 1",
+    "2-2/DB/DBMS",
+    "2-2/DB/assets/Pasted image 20260225092132.png",
+    "2-2/DB/assets/Pasted image 20260225092018.png",
+    "2-2/DB/assets/Pasted image 20260225091925.png",
+    "2-2/DB/assets/Pasted image 20260224203500.png",
     "2-2/DB/topics",
-    "2-2/DB/DB Intro/assets",
-    "2-2/DB/DB Intro/assets/Pasted image 20260224172648.png",
+    "2-2/DB/assets",
     "2-2/DB/DB Intro",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "2-2",
-    "2-2/Os/assets/Pasted image 20260224095325.png",
-    "2-2/Os/assets/Pasted image 20260224095803.png",
-    "2-2/Os/assets/Pasted image 20260224095338.png",
-    "2-2/Os/assets/Pasted image 20260224094933.png",
-    "2-2/Os/assets/Pasted image 20260224073326.png",
     "Os/Deadlock/Untitled.base",
     "QuickNote",
-    "2-2/DB",
-    "2-2/Os/topics",
-    "2-2/Os/Deadlock",
-    "2-2/Os/assets"
+    "2-2/DB"
   ]
 }

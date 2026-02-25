@@ -1,0 +1,1 @@
+Helps multiple applications share DB without duplicating DB for their own use that could cause [[Data Inconsistency]] and [[Data Redundancy]] problems

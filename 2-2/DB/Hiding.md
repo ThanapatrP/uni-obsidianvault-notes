@@ -1,0 +1,2 @@
+- Abstraction of Complexity
+- Hiding complex operation with Hardware

@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 5431008
       }
+    },
+    {
+      "query": "path:QuickNote  ",
+      "color": {
+        "a": 1,
+        "rgb": 4281153
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 8.28785002373042,
   "linkStrength": 1,
   "linkDistance": 232,
-  "scale": 0.7236429638626408,
+  "scale": 0.25508809231523205,
   "close": true
 }

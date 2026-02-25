@@ -1,0 +1,12 @@
+Functionalities [[DBMS]] ==NEED== to have
+- [[Hiding]]
+- [[Connect Application to DB]]
+- [[Processing DB Command]]
+- [[Data Conversion]]
+- [[Data Integrity Enforcement]]
+- [[Security Enforcement]]
+- [[Redundancy & Consistency Control]]
+- [[Concurrency Control]]
+- [[Transaction Processing Control]]
+- [[Data Back-up & Resiliency]]
+- *(+ Support [[The Three Schema Architecture]])*

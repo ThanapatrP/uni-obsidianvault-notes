@@ -1,0 +1,2 @@
+- A type of *Data structure*
+- Used for ***quick data accessing***

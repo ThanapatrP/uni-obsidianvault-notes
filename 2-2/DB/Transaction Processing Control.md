@@ -1,0 +1,2 @@
+- Help transaction processing
+- Recovery Data based on [[Atomicity Control]]

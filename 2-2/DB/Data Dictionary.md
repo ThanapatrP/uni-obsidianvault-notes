@@ -1,0 +1,3 @@
+- Acts like a *manual* for the DB
+- Store *descriptions/metadata* of the DB
+- ex. fieldtype, relation names, file size, etc.

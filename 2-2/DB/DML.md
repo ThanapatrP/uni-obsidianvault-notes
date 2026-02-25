@@ -1,0 +1,3 @@
+- "Data Manipulation Language"
+- A subset of [[SQL]]
+- Focus on manipulating data like [[Data]], [[Field]], [[Record]]

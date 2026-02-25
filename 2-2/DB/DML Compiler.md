@@ -1,0 +1,2 @@
+- Interpret [[DML]] language command (Insert / delete / edit) into -> executable code
+- 

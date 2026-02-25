@@ -1,0 +1,3 @@
+- **File system structure**
+- Can only have 1 [[Schema]]
+- ex. FAT32, EXT4, BTRFS

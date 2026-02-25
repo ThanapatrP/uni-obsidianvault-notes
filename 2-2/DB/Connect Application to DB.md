@@ -1,0 +1,2 @@
+- Ability to Connect Hardware File system of DB to Application
+- Helps Application manage data in DB File system

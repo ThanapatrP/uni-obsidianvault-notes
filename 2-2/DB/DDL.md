@@ -1,0 +1,3 @@
+- "Data Definition Language"
+- Mainly use for define modify data in DB
+- Usually a subset of [[SQL]]
