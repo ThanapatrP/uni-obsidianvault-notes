@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,48 +8,51 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#OS  ",
+      "query": "tag:#HOME  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 14732626
       }
     },
     {
       "query": "tag:#MOC",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 7880166
+      }
+    },
+    {
+      "query": "tag:#OS  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701173
       }
     },
     {
       "query": "tag:#DB",
       "color": {
         "a": 1,
-        "rgb": 5431008
+        "rgb": 5436633
       }
     },
     {
       "query": "path:QuickNote  ",
       "color": {
         "a": 1,
-        "rgb": 4281153
+        "rgb": 5195328
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.3,
-  "nodeSizeMultiplier": 2.15823163378515,
-  "lineSizeMultiplier": 3.2256379335295,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.51469742291763,
+  "lineSizeMultiplier": 1.3145708697653,
   "collapse-forces": false,
-  "centerStrength": 0.180113906027527,
-  "repelStrength": 8.28785002373042,
+  "centerStrength": 0.568971468016567,
+  "repelStrength": 12.3596410492407,
   "linkStrength": 1,
-  "linkDistance": 232,
-<<<<<<< HEAD
-  "scale": 2.026325538607749,
-=======
-  "scale": 0.660623995685954,
->>>>>>> 7c59087 ($(date))
-  "close": true
+  "linkDistance": 250,
+  "scale": 0.3658053268271982,
+  "close": false
 }
