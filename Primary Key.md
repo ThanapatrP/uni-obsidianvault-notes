@@ -1,0 +1,1 @@
+- [[Candidate Key]] that was chosen to be the main identifier to uniquely identify [[Record]] in [[Relation]]

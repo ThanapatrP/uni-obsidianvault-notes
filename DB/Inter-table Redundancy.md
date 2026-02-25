@@ -1,0 +1,2 @@
+- Redundancy in *different [[Relation]] / Table*
+- ex. Have "ID" Field in several [[Relation]]

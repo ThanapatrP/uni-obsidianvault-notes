@@ -1,0 +1,2 @@
+- [[Super Key]](s) that has *minimal number of fields*
+- Every [[Relation]] need *at least 1 Candidate Key*

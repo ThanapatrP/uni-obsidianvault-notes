@@ -1,0 +1,2 @@
+- Encrypt data in DB
+- To protect data from *Unauthorized Access*

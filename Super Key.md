@@ -1,0 +1,3 @@
+- Combination (or just one) of [[Field]](s) that can uniquely identify every [[Record]] in [[Relation]]
+- Every [[Relation]] need *at least 1 Super key(s)*
+- Number of fields for a Super key doesn't matter (but at least 1 field)

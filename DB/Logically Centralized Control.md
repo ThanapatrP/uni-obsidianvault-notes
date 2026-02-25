@@ -1,0 +1,1 @@
+In case DB was *separated to multiple devices / computer / server*, it should act *as it lives in the same computer*

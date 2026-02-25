@@ -1,0 +1,2 @@
+- Redundancy at the *same [[Field]]* but *different [[Record]]*
+- ex. 1 Person have *2 phone numbers* but have to enter *2 row for the same person* to enter 2 phone number

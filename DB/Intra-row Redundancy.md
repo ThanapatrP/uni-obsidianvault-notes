@@ -1,0 +1,3 @@
+- Redundancy in the *same [[Record]]*
+- Multiple [[Field]] tell the same information
+- ex. Nisit-ID & Admission Year (67xxxxxxx & 2567) <- these 2 give the same information

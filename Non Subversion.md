@@ -1,0 +1,2 @@
+- Accessing Data in DB *can only be accessed via [[DBMS]]*
+- No cloning / duplicating DB to edit by themselve

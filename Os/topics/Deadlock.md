@@ -9,7 +9,6 @@
 [[Deadlock != Starvation]]
 
 See Also:
-[[Os/Deadlock]]
 [[System Model]]
 [[Resource Type]]
 [[Deadlock Condition]]

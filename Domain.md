@@ -1,0 +1,1 @@
+Value / Data stored in each [[Field]] in [[Record]]
