@@ -1,0 +1,12 @@
+# Ignore workspace and cache files
+.obsidian/workspace*
+.obsidian/cache*
+
+# Ignore specific plugin data if needed (e.g., API keys, large data files)
+# .obsidian/plugins/<plugin-name>/data.json 
+
+# Optional: Ignore all settings to have a clean slate on each device
+# .obsidian/*
+# Keep this line if you uncomment the line above to sync the .gitignore file itself
+# !.obsidian/.gitignore
+
