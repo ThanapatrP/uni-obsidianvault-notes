@@ -1,0 +1,2 @@
+- Collect Data (+ Data requirement / business needs)
+- Helps identifying what kind of data user needs

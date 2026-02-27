@@ -1,0 +1,1 @@
+Use *Data Requirement* from [[Dev process - Data Requirement]] to create [[Relational DB Model]] (RDB Model) and [[Data Dictionary]]

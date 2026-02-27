@@ -1,0 +1,1 @@
+One of the [[DB Model Types]] DB Model that consist of [[Data]], [[Field]], [[Record]]

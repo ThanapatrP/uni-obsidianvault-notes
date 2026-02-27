@@ -1,0 +1,1 @@
+Use [[Relational DB Model]] from [[Dev process - Analyze Data Requirement]] to create [[Conceptual Schema]] + [[Normalize]] it

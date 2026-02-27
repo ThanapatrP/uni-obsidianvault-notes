@@ -4,3 +4,4 @@
 [[DB Introduction]]
 [[DBMS]]
 [[Key-Concept of RDB]]
+[[Data Model for RDB]]
