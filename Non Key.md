@@ -1,0 +1,3 @@
+- AKA. "Descriptor" / "Non-prime attribute"
+- Fields that *is not a [[Candidate Key]] or isn't in [[Candidate Key]]*
+- Mainly use for describing data

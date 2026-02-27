@@ -1,0 +1,2 @@
+ - Status when *all* [[Field]](s) in a [[Relation]]'s [[Primary Key]] are *not null*
+ - Must be enforced by [[DBMS]]
