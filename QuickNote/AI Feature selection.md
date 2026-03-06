@@ -1,4 +1,3 @@
-
 ## Methods
 - variant threshold
 - K best features (filter)
